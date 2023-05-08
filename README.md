@@ -1,5 +1,5 @@
 # MicroPython MAX7219 8x8 LED Matrix
-
+note: library for max7219 (forked frm mcauser) 
 A MicroPython library for the MAX7219 8x8 LED matrix driver, SPI interface, supports cascading and uses [framebuf](http://docs.micropython.org/en/latest/pyboard/library/framebuf.html)
 
 ## PyBoard Examples
